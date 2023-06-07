@@ -1,6 +1,6 @@
  #Write a program to display the factors of a given number. 
   
- print("Factors of a number") 
+print("Factors of a number") 
   
  n=int(input("Enter the number: ")) 
   
